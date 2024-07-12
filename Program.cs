@@ -1,4 +1,4 @@
-using CVManager.Data;
+using CvManager.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

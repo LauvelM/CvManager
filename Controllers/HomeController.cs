@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using CVManager.Models;
+using CvManager.Models;
 
-namespace CVManager.Controllers;
+namespace CvManager.Controllers;
 
 public class HomeController : Controller
 {

@@ -1,8 +1,6 @@
-// LAURA
-
 using Microsoft.AspNetCore.Mvc;
 
-namespace CVManager.Controllers.Account
+namespace CvManager.Controllers.Account
 {
     public class AccountLoginController : ControllerBase
     {
